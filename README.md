@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, Je suis Sara Mkhaitratt</h1>
-<h3 align="center">Je suis un étudiante en génie statistique et ingénierie des données à l'École Polytechnique de Mauritanie. Passionné par les données et leur analyse, je suis constamment à la recherche de nouvelles opportunités pour appliquer mes compétences dans des projets concrets.</h3>
+Je suis un étudiante en génie statistique et ingénierie des données à l'École Polytechnique de Mauritanie. Passionné par les données et leur analyse, je suis constamment à la recherche de nouvelles opportunités pour appliquer mes compétences dans des projets concrets.
 
 - 📫 How to reach me **21077@esp.mr**
 
